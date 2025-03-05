@@ -1,7 +1,6 @@
-# Password Strength Meter
+# 🔒 Password Strength Meter
 
 ![image](https://github.com/user-attachments/assets/a0416bba-0626-4834-9a3d-1fb8a05e8b04)
-
 
 A Python-based web application built with **Streamlit** to evaluate and display the strength of passwords in real-time. This tool helps users create stronger and more secure passwords by providing instant feedback.
 
@@ -31,8 +30,6 @@ The **Password Strength Meter** is a user-friendly web app that analyzes passwor
 
 ---
 
-## Installation and Usage
-
 ### Prerequisites
 
 - Python 3.8 or higher.
@@ -42,8 +39,6 @@ The **Password Strength Meter** is a user-friendly web app that analyzes passwor
 You can run this project locally by following the steps below.
 
 ## Installation & Setup
-### Prerequisites
-Ensure you have **Python 3.x** installed on your system. You also need to install the required dependencies.
 
 ### Step-by-Step Setup
 1. **Clone the Repository**:
@@ -62,10 +57,9 @@ streamlit run password_strength_meter.py
 2. **Receive Feedback**: If the password is weak, suggestions will be provided.
 3. **Generate a Strong Password**: Users can generate a random strong password with adjustable length.
 
-![image](https://github.com/user-attachments/assets/ba0e01c3-ee87-435d-8c92-d5b9f30671f0)
+![image](https://github.com/user-attachments/assets/a1cb1617-3e7d-45c9-b9f1-f9c721986488)
 
 ![image](https://github.com/user-attachments/assets/711e89e9-04d5-4394-82be-0d05d9c47319)
-
 
 ## Contribution
 Contributions are welcome! To contribute:
@@ -79,17 +73,19 @@ Contributions are welcome! To contribute:
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
-🚀 Developed by **Abdul Rehman** | [GitHub](https://github.com/Abdurrehman2003/) | [LinkedIn]([https://linkedin.com/in/your-profile/](https://www.linkedin.com/in/abdulrehman-genai-engineer/))
+🚀 Developed by **Abdul Rehman** | [GitHub](https://github.com/Abdurrehman2003/) | [LinkedIn](https://www.linkedin.com/in/abdulrehman-genai-engineer/))
 
-Code Style:
+## Code Style:
 
 Follow PEP 8 guidelines for Python code.
 
 Use descriptive variable names and include comments where necessary.
 
-Acknowledgments
+## Acknowledgments
 Built with ❤️ using Streamlit.
 
 Inspired by the need for stronger password security.
 
-Feel free to explore, contribute, and use the Password Strength Meter to enhance your online security! 🔒 ⭐ If you like this project, please consider giving it a star on GitHub! ⭐
+Feel free to explore, contribute, and use the Password Strength Meter to enhance your online security! 🔒 
+
+## ⭐ If you like this project, please consider giving it a star on GitHub! ⭐
