@@ -1,5 +1,4 @@
 # 🔒 Password Strength Meter
-
 ![image](https://github.com/user-attachments/assets/a0416bba-0626-4834-9a3d-1fb8a05e8b04)
 
 A Python-based web application built with **Streamlit** to evaluate and display the strength of passwords in real-time. This tool helps users create stronger and more secure passwords by providing instant feedback.
@@ -7,7 +6,6 @@ A Python-based web application built with **Streamlit** to evaluate and display 
 ---
 
 ## Description
-
 The **Password Strength Meter** is a user-friendly web app that analyzes passwords based on complexity, length, and common patterns. It provides a visual strength indicator (Weak, Medium, Strong) and suggestions for improving password security.
 
 ---
@@ -22,7 +20,6 @@ The **Password Strength Meter** is a user-friendly web app that analyzes passwor
 ---
 
 ## Technologies Used
-
 - **Python**: Core logic for password strength evaluation.
 - **Streamlit**: Framework for building and deploying the web app.
 - **Regex**: For pattern matching and validation.
@@ -31,7 +28,6 @@ The **Password Strength Meter** is a user-friendly web app that analyzes passwor
 ---
 
 ### Prerequisites
-
 - Python 3.8 or higher.
 - Pip (Python package manager).
 
@@ -76,7 +72,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 🚀 Developed by **Abdul Rehman** | [GitHub](https://github.com/Abdurrehman2003/) | [LinkedIn](https://www.linkedin.com/in/abdulrehman-genai-engineer/))
 
 ## Code Style:
-
 Follow PEP 8 guidelines for Python code.
 
 Use descriptive variable names and include comments where necessary.
