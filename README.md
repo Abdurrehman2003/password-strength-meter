@@ -83,4 +83,5 @@ Inspired by the need for stronger password security.
 
 Feel free to explore, contribute, and use the Password Strength Meter to enhance your online security! 🔒 
 
-## ⭐ If you like this project, please consider giving it a star on GitHub! ⭐
+
+## ⭐ If you like this project, please consider giving it a star! ⭐
